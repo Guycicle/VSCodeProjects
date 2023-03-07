@@ -1,0 +1,27 @@
+.pokemon {
+    background-color: rgb(203, 255, 147);
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+}
+.pokemon img {
+    display: block;
+}
+
+.pokemon span {
+
+    color: rgb(2, 69, 0);
+    font-weight: 900;
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(168, 214, 179);
+}
+
+h1 {
+    color: rgb(2, 69, 0);
+    margin-left: 5px;
+    font-size: 40px;
+}
